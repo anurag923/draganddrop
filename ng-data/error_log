@@ -1,0 +1,22 @@
+[23-May-2021 13:44:23 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 13:44:23 Asia/Kolkata] PHP Warning:  unlink(upload/canvas/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 13:44:23 Asia/Kolkata] PHP Warning:  unlink(upload/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 13:44:35 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 13:44:35 Asia/Kolkata] PHP Warning:  unlink(upload/canvas/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 13:44:35 Asia/Kolkata] PHP Warning:  unlink(upload/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 13:44:41 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 13:44:41 Asia/Kolkata] PHP Warning:  unlink(upload/canvas/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 13:44:41 Asia/Kolkata] PHP Warning:  unlink(upload/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 13:44:53 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 13:44:53 Asia/Kolkata] PHP Warning:  unlink(upload/canvas/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 13:44:53 Asia/Kolkata] PHP Warning:  unlink(upload/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 13:44:55 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 13:44:55 Asia/Kolkata] PHP Warning:  unlink(upload/canvas/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 13:44:55 Asia/Kolkata] PHP Warning:  unlink(upload/): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 14:20:44 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 14:20:44 Asia/Kolkata] PHP Warning:  unlink(../upload/canvas/): Is a directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 14:20:44 Asia/Kolkata] PHP Warning:  unlink(../upload/ab9dc09c64786103361d9f5184747ef9-infoechwayout.png): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 14:20:48 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 13
+[23-May-2021 14:20:48 Asia/Kolkata] PHP Warning:  unlink(../upload/canvas/): Is a directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 15
+[23-May-2021 14:20:48 Asia/Kolkata] PHP Warning:  unlink(../upload/6de529c9c1169727b3cd56674507a842-infoechwayout.png): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
+[23-May-2021 14:21:02 Asia/Kolkata] PHP Warning:  unlink(../upload/c9c3d3980d423125a9558469f5767ecd-1.jpg): No such file or directory in /home/groundin/dragdrop.ground11.in/ng-data/del_table_data2.php on line 16
